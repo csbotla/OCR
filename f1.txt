@@ -1,0 +1,6 @@
+BRA iW
+BARBELL
+
+Look at each of the columns’ Type and decide if
+the current types are suitable for future data that
+we might be storing in this table.
