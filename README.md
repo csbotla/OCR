@@ -11,3 +11,5 @@ This application can capture image from android camera (Using IP camera) and con
 >Look at each of the columns’ Type and decide if<br>
 >the current types are suitable for future data that<br>
 >we might be storing in this table.<br>
+
+**Output** depends on **image quality(resolution)**
