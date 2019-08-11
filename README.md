@@ -4,10 +4,10 @@ This application can capture image from android camera (Using IP camera) and con
 
 ![Captured Image](https://github.com/csbotla/OCR/blob/master/opencv_frame.jpeg) 
 
-# OUTPUT
->BRA iW
->BARBELL
+# Output
+>BRA iW<br>
+>BARBELL<br>
 >
->Look at each of the columns’ Type and decide if
->the current types are suitable for future data that
->we might be storing in this table.
+>Look at each of the columns’ Type and decide if<br>
+>the current types are suitable for future data that<br>
+>we might be storing in this table.<br>
