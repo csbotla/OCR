@@ -2,7 +2,8 @@
 This application can capture image from android camera (Using IP camera) and converts that image into editable text
 
 
-![Captured Image](https://github.com/csbotla/OCR/blob/master/opencv_frame.jpeg) 
+ 
+<a href="https://github.com/csbotla/OCR/blob/master/opencv_frame.jpeg"><img src="https://github.com/csbotla/OCR/blob/master/opencv_frame.jpeg" align="center" height="500" width="500" ></a>
 
 # Output
 >BRA iW<br>
